@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+
+# outputs
+frames/
+ocr_results.json
+ocr_comparison.png
+
+# videos
+*.mp4
